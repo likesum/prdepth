@@ -1,0 +1,13 @@
+# To run: conda env create -f environment.yml
+name: prdepth
+channels:
+    - conda-forge
+dependencies:
+    - python=3.7
+    - pip
+    - cudatoolkit=10.0
+    - tensorflow-gpu==1.15
+    - tensorflow-probability
+    - numpy
+    - matplotlib
+    - imageio
