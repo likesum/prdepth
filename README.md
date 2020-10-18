@@ -119,5 +119,9 @@ If you find the code useful for your research, we request that you cite the pape
 ```
 
 
+## Acknowledgments
+This work was supported by the National Science Foundation under award no. [IIS-1820693](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1820693). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors, and do not necessarily reflect the views of the National Science Foundation.
+
+
 ## License
 This code `prdepth/tf_extract_grad.py` is taken from an [older version of Tensorflow]( https://github.com/tensorflow/tensorflow/blob/r1.7/tensorflow/python/ops/array_grad.py#L725). Our TF implementation of DORN is based on the [caffe implementation](https://github.com/hufu6371/DORN) provided by the authors. The rest of the code is licensed under the MIT License.
