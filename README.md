@@ -3,7 +3,7 @@
 Tensorflow implementation of training and utilizing a neural depth sampler for a variety of depth applications.<br>
 
 [Generating and Exploiting Probabilistic Monocular Depth Estimates](https://projects.ayanc.org/prdepth) (CVPR 2020, **Oral Presentation**) <br>
- [Zhihao Xia](https://www.cse.wustl.edu/~zhihao.xia/)<sup>1</sup>,
+ [Zhihao Xia](https://likesum.github.io/)<sup>1</sup>,
  [Patrick Sullivan](https://github.com/algoterranean)<sup>2</sup>,
  [Ayan Chakrabarti](https://projects.ayanc.org/)<sup>1</sup> <br>
 <sup>1</sup>WUSTL, <sup>2</sup>The Boeing Company
